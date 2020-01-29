@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the "vscode-language-pack-en-BS" language pack will be documented in this file.
+All notable changes to the "vscode-language-pack-en-boston" language pack will be documented in this file.
 
 ## [Released]
 * December 16, 2019 -  Release for VS Code 1.41
