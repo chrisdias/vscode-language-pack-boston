@@ -2,7 +2,7 @@
 	"name": "vscode-language-pack-bs",
 	"displayName": "English (Boston) Language Pack for Visual Studio Code",
 	"description": "Language pack extension for English (Boston)",
-	"version": "0.0.7",
+	"version": "0.0.9",
 	"publisher": "chrisdias",
 	"repository": {
 		"type": "git",
