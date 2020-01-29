@@ -1,10 +1,10 @@
-# English (United Kingdom) Language Pack for VS Code
+# English (Boston) Language Pack for VS Code
 
-English (United Kingdom) Language Pack provides localised UI experience for VS Code.
+English (Boston) Language Pack provides localised UI experience for VS Code.
 
 ## Usage
 
-Once installed, set `"locale": "en-gb"` in `locale.json` to load English (United Kingdom) Language Pack. To modify `locale.json` press `Ctrl+Shift+P` to bring up the **Command Palette**, start typing "config" to filter the list of available commands, then select the **Configure Language** command. See [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) for more information.
+Once installed, set `"locale": "bs"` in `locale.json` to load English (United Kingdom) Language Pack. To modify `locale.json` press `Ctrl+Shift+P` to bring up the **Command Palette**, start typing "config" to filter the list of available commands, then select the **Configure Language** command. See [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) for more information.
 
 ## Contributing
 
@@ -18,16 +18,12 @@ The source code and strings are licensed under the [MIT](https://github.com/Micr
 
 ## Credits
 
-English (United Kingdom) Language Pack is brought to you through "By the community, for the community" community localisation effort.
+English (Boston) Language Pack is brought to you through "By the community, for the community" community localisation effort.
 
 Special thanks to community contributors for making it available.
 
 **Top Contributors:**
 
-* Matthew John Cheetham
-
 **Contributors:**
-
-* Alexander Ogilvie
 
 **Enjoy!**
