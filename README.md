@@ -1,6 +1,6 @@
 # English (Boston) Language Pack for VS Code
 
-English (Boston) Language Pack provides localised UI experience for VS Code.
+English (Boston) Language Pack provides localised UI experience for VS Code. As [America's 2nd sexiest accent](https://www.bostonmagazine.com/news/2019/05/15/boston-accent-second-sexiest/), the Bahston language pack is sure to improve you VS Code experience.
 
 ## Usage
 
