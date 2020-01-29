@@ -1,10 +1,10 @@
 # English (Boston) Language Pack for VS Code
 
-English (Boston) Language Pack provides localised UI experience for VS Code.
+English (Boston) Language Pack provides localised UI experience for VS Code. As [America's 2nd sexiest accent](https://www.bostonmagazine.com/news/2019/05/15/boston-accent-second-sexiest/), the Bahston language pack is sure to improve your VS Code experience.
 
 ## Usage
 
-Once installed, set `"locale": "bs"` in `locale.json` to load English (United Kingdom) Language Pack. To modify `locale.json` press `Ctrl+Shift+P` to bring up the **Command Palette**, start typing "config" to filter the list of available commands, then select the **Configure Language** command. See [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) for more information.
+Once installed, set `"locale": "bs"` in `locale.json` to load English (Boston) Language Pack. To modify `locale.json` press `Ctrl+Shift+P` to bring up the **Command Palette**, start typing "config" to filter the list of available commands, then select the **Configure Language** command. See [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) for more information.
 
 ## Contributing
 

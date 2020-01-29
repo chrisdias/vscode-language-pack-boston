@@ -1,13 +1,13 @@
-# Welcome to the English (United Kingdom) language pack
+# Welcome to the English (Boston) language pack
 
 ## What's in the folder
 * `package.json` - the manifest file, defining the name and description of the localisation extension. It also contains the `localizations` contribution point that defines the language id:
 ```json
         "contributes": {
             "localization": [{
-                "languageId": "en-gb",
-                "languageName": "English (United Kingdom)",
-                "localizedLanguageName": "English (United Kingdom)"
+                "languageId": "en-bs",
+                "languageName": "English (Boston)",
+                "localizedLanguageName": "English (Boston)"
             }]
         }
 ```
